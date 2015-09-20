@@ -1,6 +1,6 @@
 {
-  "name": "VisualTimebar",
-  "description": "A visual Diary",
+  "name": "TimeCluster",
+  "description": "clusters objects into timeframes",
   "version": "0.0.1",
   "author": "Phalanstere",
   "license": "MIT",
@@ -9,11 +9,16 @@
   },
   "dependencies": {
   },
+  "main": "./lib",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Phalanstere/TimeCluster.git"
   },
+  "scripts": {
+  "test": "mocha"
+  },
   "devDependencies": {
-
+  "chai": "3.x.x",
+  "mocha": "2.x.x"
   }
 }
