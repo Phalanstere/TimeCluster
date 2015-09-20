@@ -1,0 +1,19 @@
+{
+  "name": "VisualTimebar",
+  "description": "A visual Diary",
+  "version": "0.0.1",
+  "author": "Phalanstere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phalanstere/TimeCluster/issues"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phalanstere/TimeCluster.git"
+  },
+  "devDependencies": {
+
+  }
+}
