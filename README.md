@@ -8,7 +8,7 @@ It might occur to you that you have a lot of timestamped objects that you want t
 
 ## Features:
 
-- You pass a folder name and receive image information of all the visual files that can be found in the folder and its subdirectories 
+The idea behind this library is to cluster a given array of timestamped objects.  
 
 ```html
     // you can embed the file via node.js require command 
